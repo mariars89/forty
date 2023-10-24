@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 Holaaaaaaaaaaa soy María y esto es una prueba para GitKraken.
 =======
-Holaaaaaaaaa soy María y esto es una prueba para GitKraken.
+Hola soy María y esto es una prueba para GitKraken.
 >>>>>>> rama-usuario1
