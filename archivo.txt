@@ -1,1 +1,9 @@
-Holaaaaaaaaa soy María y esto es una prueba para GitKraken.
+<<<<<<< HEAD
+<<<<<<< HEAD
+Holaaaaaaaaaaa soy María y esto es una prueba para GitKraken.
+=======
+Hola soy María y esto es una prueba para GitKraken.
+>>>>>>> rama-usuario1
+=======
+Holaaaaaaaaaaa soy María y esto es una prueba para GitKraken.
+>>>>>>> parent of 6aa5b22 (Merge branch 'rama-usuario1' into main)
